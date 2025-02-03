@@ -33,8 +33,7 @@ File: App.js
 	•	Displays prediction result and model accuracies.
 
 Key Dependencies:
-	•	React
-	•	Axios (for API calls)
+	•	React (Js library)
 
 Backend
 
