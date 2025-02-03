@@ -1,0 +1,28 @@
+Flask==2.2.5
+flask-cors==3.0.10
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+
+
+
+How to Use:
+	1.Install Dependencies
+          Run the following command to install all required dependencies:
+
+            pip install -r requirements.txt
+
+
+	2.Check Installed Versions
+            Verify that the packages are installed correctly:
+
+             pip freeze
+
+
+	3.Update Dependencies (if needed)
+
+            pip install --upgrade -r requirements.txt
+
+
+
+
